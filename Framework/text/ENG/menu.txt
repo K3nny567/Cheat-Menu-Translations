@@ -14,10 +14,10 @@ cheat_toggle/off
 OFF
 
 modules/installed_count
-Installed Modules:
+Installed Modules：
 
 modules/prefix
-CheatModule:
+CheatModule：
 
 commands/modules
 CheatModules
