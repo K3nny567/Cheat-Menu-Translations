@@ -1,9 +1,3 @@
-mod/name
-Marco del menú de trucos
-
-mod/description
-El antiguo Mod de trucos, rediseñado para usar módulos para agregar nuevos trucos.
-
 info/alert
 ATENCIÓN
 

@@ -1,9 +1,3 @@
-mod/name
-作弊菜單框架
-
-mod/description
-舊的秘籍模組經過重新設計，使用模組來添加新的秘籍。
-
 info/alert
 请注意!
 

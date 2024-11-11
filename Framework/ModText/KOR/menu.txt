@@ -1,9 +1,3 @@
-mod/name
-치트 메뉴 프레임워크
-
-mod/description
-기존 치트 모드는 모듈을 사용하여 새로운 치트를 추가하도록 재작업되었습니다.
-
 info/alert
 주의!
 
