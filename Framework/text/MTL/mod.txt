@@ -1,0 +1,6 @@
+name
+\c[0]Cheat Menu Framework
+
+description
+\c[0]The old Cheats Mod, reworked to use modules to add new cheats.
+
